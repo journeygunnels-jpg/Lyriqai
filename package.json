@@ -1,0 +1,12 @@
+{
+  "name": "lyriqai",
+  "version": "1.0.0",
+  "description": "AI music & songwriting app — full songs, beat sheets, and title ideas in seconds. Powered by Claude.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
